@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-m)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshm5142@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vignesh5142)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vignesh-mj)
 
 </div>
 
@@ -87,11 +87,12 @@
 
 <div align="center">
 
-![Vignesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vignesh5142&show_icons=true&theme=react&hide_border=true&count_private=true&v=2)
+![Vignesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vignesh-mj&show_icons=true&theme=react&hide_border=true&count_private=true&v=2)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh5142&layout=compact&theme=react&hide_border=true&v=2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-mj&layout=compact&theme=react&hide_border=true&v=2)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vignesh5142&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vignesh-mj&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 ---
@@ -109,7 +110,7 @@ Use this template for each project:
 **Tech:** React.js · Redux Toolkit · Tailwind CSS · REST API
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat-square)](https://your-demo-link.com)
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/vignesh5142/repo-name)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vignesh-mj)
 
 ---
 -->
