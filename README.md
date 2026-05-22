@@ -87,11 +87,13 @@
 
 <div align="center">
 
-![Vignesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vignesh-mj&show_icons=true&theme=react&hide_border=true&count_private=true&v=2)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vignesh-mj&theme=github_dark" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-mj&layout=compact&theme=react&hide_border=true&v=2)
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vignesh-mj&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vignesh-mj&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vignesh-mj&theme=github_dark" />
 
 </div>
 
